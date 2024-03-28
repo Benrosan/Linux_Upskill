@@ -17,6 +17,15 @@ Creating SSH key pair.
 Successfully logged in.
 ###
 ![2024-03-28 12_45_57-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/84926e11-d6ae-4499-8808-4fb6f38e54c5)
+###
+Installed the Network Manager package to grab the name of my NIC. Then ran **sudo iftop -i ens18** to take a look at network traffic.
+###
+![2024-03-28 13_22_27-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/4850dafa-5f7e-4b0c-a454-0e941b235a8a)
+###
+Also installed htop to be get a better look at resource utilization.
+###
+![2024-03-28 13_19_48-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/bdcbd96e-9221-4864-b2d7-0a680a958fc1)
+
 
 
 
