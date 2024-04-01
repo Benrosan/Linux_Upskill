@@ -25,6 +25,17 @@ Installed the Network Manager package to grab the name of my NIC. Then ran **sud
 Also installed htop to be get a better look at resource utilization.
 ###
 ![2024-03-28 13_19_48-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/bdcbd96e-9221-4864-b2d7-0a680a958fc1)
+###
+Updated the timezone on my server.
+###
+![2024-04-01 09_17_26-root@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/59b5dd91-0184-4d6d-b6ad-1d513b7a86d7)
+###
+Switched to my Kali Linux VM to try an crack my own password via John the Ripper (stopped process after a few mins). Interesting to note the uptick in resource utilization as the program uses CPU cores to try and crack the hash.
+###
+![2024-04-01 10_15_29-Kali Linux on GENIE - Virtual Machine Connection](https://github.com/Benrosan/Linux_Upskill/assets/160042310/fa5c351f-07be-4755-823f-e676d73d1971)
+###
+
+
 
 
 
