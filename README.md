@@ -40,6 +40,10 @@ Navigating to various important folders and practicing working with important co
 ###
 ![2024-04-01 10_39_34-benrosan@apache_ _etc](https://github.com/Benrosan/Linux_Upskill/assets/160042310/923f7e1e-d0d3-4b3e-8d37-4e90d128d169)
 ###
+Installed Midnight Commander (mc) to experiment with a simple file system GUI. Created a new "Documents" folder in my home directory.
+###
+![2024-04-01 10_23_18-mc  benrosan@apache _~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/8a8d6c89-2db4-4d3c-8b25-1cb38b776617)
+
 
 
 
