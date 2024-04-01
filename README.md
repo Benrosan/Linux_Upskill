@@ -34,6 +34,14 @@ Switched to my Kali Linux VM to try an crack my own password via John the Ripper
 ###
 ![2024-04-01 10_15_29-Kali Linux on GENIE - Virtual Machine Connection](https://github.com/Benrosan/Linux_Upskill/assets/160042310/fa5c351f-07be-4755-823f-e676d73d1971)
 ###
+Navigating to various important folders and practicing working with important commands such as **find, cat, grep**.
+###
+![2024-04-01 10_37_24-benrosan@apache_ _](https://github.com/Benrosan/Linux_Upskill/assets/160042310/b46abd73-8b46-4015-873f-f787583f239d)
+###
+![2024-04-01 10_39_34-benrosan@apache_ _etc](https://github.com/Benrosan/Linux_Upskill/assets/160042310/923f7e1e-d0d3-4b3e-8d37-4e90d128d169)
+###
+
+
 
 
 
