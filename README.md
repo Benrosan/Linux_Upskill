@@ -43,6 +43,11 @@ Navigating to various important folders and practicing working with important co
 Installed Midnight Commander (mc) to experiment with a simple file system GUI. Created a new "Documents" folder in my home directory.
 ###
 ![2024-04-01 10_23_18-mc  benrosan@apache _~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/8a8d6c89-2db4-4d3c-8b25-1cb38b776617)
+###
+Taking a quick look at the apache2.conf file.
+###
+![2024-04-02 12_02_52-benrosan@apache_ _etc_apache2](https://github.com/Benrosan/Linux_Upskill/assets/160042310/132164e4-f745-4842-a737-4ca5bd9bd46d)
+
 
 
 
