@@ -47,6 +47,14 @@ Installed Midnight Commander (mc) to experiment with a simple file system GUI. C
 Taking a quick look at the apache2.conf file.
 ###
 ![2024-04-02 12_02_52-benrosan@apache_ _etc_apache2](https://github.com/Benrosan/Linux_Upskill/assets/160042310/132164e4-f745-4842-a737-4ca5bd9bd46d)
+###
+Using the `grep` command to take a look and the server logs and dumping the output into a new file.
+![2024-04-12 11_31_03-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/d4a2ab7f-05fe-42a2-9b44-392e3df43f9f)
+###
+Checking that the new file has been properly created
+###
+![2024-04-12 11_32_18-benrosan@apache_ ~](https://github.com/Benrosan/Linux_Upskill/assets/160042310/44bba6ad-c219-4c96-8c9a-db83cd328db0)
+
 
 
 
